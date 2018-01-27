@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\documents\cpts 483 assignments\mpi counting sort\mpi counting sort\main.cpp(22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\cpts 483 assignments\mpi counting sort\mpi counting sort\main.cpp(69): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\mpi counting sort\mpi counting sort\main.cpp(142): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\mpi counting sort\mpi counting sort\main.cpp(312): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\mpi counting sort\mpi counting sort\main.cpp(328): warning C4018: '<': signed/unsigned mismatch
+  MPI Counting Sort.vcxproj -> D:\Documents\CptS 483 Assignments\MPI Counting Sort\Debug\MPI Counting Sort.exe
