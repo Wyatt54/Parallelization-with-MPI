@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\documents\cpts 483 assignments\openmp counting sort\openmp counting sort\main.cpp(26): warning C4244: '=': conversion from '__int64' to 'int', possible loss of data
+d:\documents\cpts 483 assignments\openmp counting sort\openmp counting sort\main.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\cpts 483 assignments\openmp counting sort\openmp counting sort\main.cpp(76): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\openmp counting sort\openmp counting sort\main.cpp(82): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\openmp counting sort\openmp counting sort\main.cpp(97): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\openmp counting sort\openmp counting sort\main.cpp(106): warning C4018: '<': signed/unsigned mismatch
+  OpenMP Counting Sort.vcxproj -> D:\Documents\CptS 483 Assignments\OpenMP Counting Sort\Debug\OpenMP Counting Sort.exe
