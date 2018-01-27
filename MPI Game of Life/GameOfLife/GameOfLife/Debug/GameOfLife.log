@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  GameOfLife.cpp
+d:\documents\cpts 483 assignments\gameoflife\gameoflife\functions.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  functions.cpp
+d:\documents\cpts 483 assignments\gameoflife\gameoflife\functions.cpp(48): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  GameOfLife.vcxproj -> D:\Documents\CptS 483 Assignments\GameOfLife\Debug\GameOfLife.exe
