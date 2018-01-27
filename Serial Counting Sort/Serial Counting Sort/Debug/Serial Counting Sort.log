@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\documents\cpts 483 assignments\serial counting sort\serial counting sort\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\cpts 483 assignments\serial counting sort\serial counting sort\main.cpp(44): warning C4018: '<': signed/unsigned mismatch
+d:\documents\cpts 483 assignments\serial counting sort\serial counting sort\main.cpp(50): warning C4018: '<': signed/unsigned mismatch
+  Serial Counting Sort.vcxproj -> D:\Documents\CptS 483 Assignments\Serial Counting Sort\Debug\Serial Counting Sort.exe
